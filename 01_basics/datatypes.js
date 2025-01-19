@@ -1,0 +1,1 @@
+"use strict" // treat all java script code as a newer version
