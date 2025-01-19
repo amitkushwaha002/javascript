@@ -5,3 +5,13 @@ console.log("Amit")
 let name="Amit"
 let age=18
 let isloggedIN=false
+let state;
+
+//number=>2 to power 53
+//bigint
+//string=>""
+//boolean => true/false
+//null=> standalone value output will be object
+//undefined => output will be undefined bcoz its a type
+//symbol=> unique
+console.log(state)
